@@ -1,0 +1,7 @@
+Ideas for Datasets:
+- Reddit: looking at posts, comments, subreddits etc. Really easy to get data using API
+- Spotify: looking into geographical data of what artist are more popular where, genres, etc. Might be harder to get this data/not sure if available, will need to look into Spotify API more
+- Census data: with the census coming up, looking at previous census data, finding trends, making predictions. Easy to find census data online
+- IMDB: look into ratings, success/failures of actors and directors. Could use a web scraper to get the data from IMDB site
+
+Github Link:
